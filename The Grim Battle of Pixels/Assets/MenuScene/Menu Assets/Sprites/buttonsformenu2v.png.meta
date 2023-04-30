@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: db275447840f23b4c955e1b4584ab43d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5986689719510009904
+    second: buttonsformenu2v_0
+  - first:
+      213: -7594317941886700737
+    second: buttonsformenu2v_1
+  - first:
+      213: 6407338234679719398
+    second: buttonsformenu2v_2
+  - first:
+      213: -9199127340353115882
+    second: buttonsformenu2v_3
+  - first:
+      213: -3551531287574644053
+    second: buttonsformenu2v_4
+  - first:
+      213: -4134652532114337051
+    second: buttonsformenu2v_5
+  - first:
+      213: -3453685345272324902
+    second: buttonsformenu2v_6
+  - first:
+      213: -1778386239376085846
+    second: buttonsformenu2v_7
+  - first:
+      213: 69104411767539820
+    second: buttonsformenu2v_8
+  - first:
+      213: 5272999540281677678
+    second: buttonsformenu2v_9
+  - first:
+      213: 5240320315140425384
+    second: buttonsformenu2v_10
+  - first:
+      213: -2141676134405510240
+    second: buttonsformenu2v_11
+  - first:
+      213: -252639163532702655
+    second: buttonsformenu2v_12
+  - first:
+      213: -1910278288733568642
+    second: buttonsformenu2v_13
+  - first:
+      213: 8688369432823182166
+    second: buttonsformenu2v_14
+  - first:
+      213: -1912960223732813819
+    second: buttonsformenu2v_15
+  - first:
+      213: -99626016458034033
+    second: buttonsformenu2v_16
+  - first:
+      213: 3720263418668556735
+    second: buttonsformenu2v_17
+  - first:
+      213: 5261116262307885630
+    second: buttonsformenu2v_18
+  - first:
+      213: -3277519659657553789
+    second: buttonsformenu2v_19
+  - first:
+      213: 6412388923832205902
+    second: buttonsformenu2v_20
+  - first:
+      213: -5868567643891949703
+    second: buttonsformenu2v_21
+  - first:
+      213: -6723211328706116976
+    second: buttonsformenu2v_22
+  - first:
+      213: 6669818541422851005
+    second: buttonsformenu2v_23
+  - first:
+      213: 6134925587562680373
+    second: buttonsformenu2v_24
+  - first:
+      213: 2027641591144286875
+    second: buttonsformenu2v_25
+  - first:
+      213: 146554111358786015
+    second: buttonsformenu2v_26
+  - first:
+      213: 6956800962274006374
+    second: buttonsformenu2v_27
+  - first:
+      213: -1420293942691641929
+    second: buttonsformenu2v_28
+  - first:
+      213: -598841904739820602
+    second: buttonsformenu2v_29
+  - first:
+      213: -6232970887158776108
+    second: buttonsformenu2v_30
+  - first:
+      213: 1648551076760460252
+    second: buttonsformenu2v_31
+  - first:
+      213: 7166350442491545712
+    second: buttonsformenu2v_32
+  - first:
+      213: 8782407783331727856
+    second: buttonsformenu2v_33
+  - first:
+      213: 1709406981110626369
+    second: buttonsformenu2v_34
+  - first:
+      213: 133632379709434128
+    second: buttonsformenu2v_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonsformenu2v_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77f104b610beca0800000000000000
+      internalID: -5986689719510009904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b77a71109b9690800000000000000
+      internalID: -7594317941886700737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 95
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5fcd94d207be850800000000000000
+      internalID: 6407338234679719398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 87
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192baa4c62265080800000000000000
+      internalID: -9199127340353115882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 87
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7d6b5c1d66bec0800000000000000
+      internalID: -3551531287574644053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 87
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2d7a9ad63ce96c0800000000000000
+      internalID: -4134652532114337051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc12151a7b0210d0800000000000000
+      internalID: -3453685345272324902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacab883327e157e0800000000000000
+      internalID: -1778386239376085846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 79
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6801dba81285f000800000000000000
+      internalID: 69104411767539820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679943f4257d2940800000000000000
+      internalID: 5272999540281677678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 71
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6453def8b59b840800000000000000
+      internalID: 5240320315140425384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe3d027ec3742e0800000000000000
+      internalID: -2141676134405510240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0841f4027e7cf0800000000000000
+      internalID: -252639163532702655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7105e974045d75e0800000000000000
+      internalID: -1910278288733568642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b9c857f9439870800000000000000
+      internalID: 8688369432823182166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50034f2dfccc375e0800000000000000
+      internalID: -1912960223732813819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b1a67aae0e9ef0800000000000000
+      internalID: -99626016458034033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 55
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ae945ed701a330800000000000000
+      internalID: 3720263418668556735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3274e0bd5d330940800000000000000
+      internalID: 5261116262307885630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 42
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38890cd0c39e382d0800000000000000
+      internalID: -3277519659657553789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 42
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420bae70c16df850800000000000000
+      internalID: 6412388923832205902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f187522d8ae8ea0800000000000000
+      internalID: -5868567643891949703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 34
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092079aeaea52b2a0800000000000000
+      internalID: -6723211328706116976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 34
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b2dd00a4ff8c50800000000000000
+      internalID: 6669818541422851005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d0225152a32550800000000000000
+      internalID: 6134925587562680373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a86f3c841a32c10800000000000000
+      internalID: 2027641591144286875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d9e3103aa80200800000000000000
+      internalID: 146554111358786015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651071dd958b8060800000000000000
+      internalID: 6956800962274006374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c9352f2a1a4ce0800000000000000
+      internalID: -1420293942691641929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 18
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb5d5fd57c70b7f0800000000000000
+      internalID: -598841904739820602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debc87700a0089a0800000000000000
+      internalID: -6232970887158776108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb156c4874d0e610800000000000000
+      internalID: 1648551076760460252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 10
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780cac22cdf37360800000000000000
+      internalID: 7166350442491545712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90d16095161e970800000000000000
+      internalID: 8782407783331727856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148fbada79809b710800000000000000
+      internalID: 1709406981110626369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsformenu2v_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019221bf0f1cad100800000000000000
+      internalID: 133632379709434128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
